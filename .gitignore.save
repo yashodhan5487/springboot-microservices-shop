@@ -1,0 +1,17 @@
+.idea/
+.DS_Store
+
+**/target/
+**/node_modules/
+
+**/docker/mysql/data/
+**/Docker/mysql/data/
+**/mysql/
+
+**/volume-data/
+**/tempo-data/
+
+*.log
+
+
+
