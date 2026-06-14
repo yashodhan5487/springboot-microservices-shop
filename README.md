@@ -52,3 +52,10 @@ API Gateway Routing
 Distributed Tracing
 Metrics Monitoring
 Centralized Logging
+
+Running the Project
+docker-compose up -d
+
+Start services individually:
+
+mvn spring-boot:run
